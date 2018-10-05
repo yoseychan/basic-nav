@@ -31,6 +31,8 @@ nav ul li a {
 /*pseudo class*/
 nav ul li a:hover {
 	background-color: #bac5b6;
+	border-bottom: 5px solid #828c7f;
+	padding-bottom: 10px;
 }
 
 /*link, visited, hover, active*/
